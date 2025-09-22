@@ -1,0 +1,1001 @@
+date,product_id,source,review_text,rating,user_id
+2024-01-10,prod2,amazon,"Satisfied, but camera could be better",4,user_0
+2024-04-05,prod1,amazon,Poor build quality,1,user_1
+2024-03-13,prod2,amazon,Poor build quality,3,user_2
+2024-08-18,prod2,amazon,Good value for money,1,user_3
+2024-10-24,prod2,amazon,Poor build quality,2,user_4
+2024-03-08,prod2,amazon,Poor build quality,1,user_5
+2024-10-17,prod3,amazon,Poor build quality,2,user_6
+2024-09-02,prod1,amazon,Good value for money,4,user_7
+2024-07-04,prod2,amazon,Poor build quality,1,user_8
+2024-01-06,prod2,amazon,"Satisfied, but camera could be better",4,user_9
+2024-09-08,prod2,amazon,Terrible customer service,2,user_10
+2024-05-01,prod2,amazon,Poor build quality,2,user_11
+2024-08-29,prod3,amazon,"Satisfied, but camera could be better",3,user_12
+2024-07-27,prod2,amazon,Terrible customer service,5,user_13
+2024-09-12,prod3,amazon,Terrible customer service,4,user_14
+2024-09-02,prod2,amazon,"Great product, battery lasts long",3,user_15
+2024-07-31,prod1,amazon,Poor build quality,5,user_16
+2024-06-12,prod2,amazon,Terrible customer service,1,user_17
+2024-08-27,prod1,amazon,Good value for money,1,user_18
+2024-03-11,prod3,amazon,Poor build quality,3,user_19
+2024-07-01,prod1,amazon,"Great product, battery lasts long",1,user_20
+2024-10-26,prod3,amazon,Terrible customer service,1,user_21
+2024-01-08,prod3,amazon,Terrible customer service,4,user_22
+2024-02-22,prod2,amazon,"Great product, battery lasts long",2,user_23
+2024-06-02,prod2,amazon,Terrible customer service,2,user_24
+2024-09-23,prod2,amazon,Terrible customer service,5,user_25
+2024-07-15,prod3,amazon,Terrible customer service,5,user_26
+2024-05-11,prod1,amazon,Good value for money,1,user_27
+2024-03-02,prod3,amazon,Poor build quality,5,user_28
+2024-02-29,prod2,amazon,"Satisfied, but camera could be better",1,user_29
+2024-09-17,prod1,amazon,Good value for money,3,user_30
+2024-02-25,prod2,amazon,"Satisfied, but camera could be better",3,user_31
+2024-01-31,prod2,amazon,Poor build quality,1,user_32
+2024-09-03,prod2,amazon,Poor build quality,1,user_33
+2024-02-15,prod3,amazon,"Satisfied, but camera could be better",2,user_34
+2024-03-04,prod2,amazon,"Great product, battery lasts long",1,user_35
+2024-06-18,prod2,amazon,"Great product, battery lasts long",4,user_36
+2024-02-06,prod3,amazon,"Satisfied, but camera could be better",5,user_37
+2024-03-29,prod3,amazon,Terrible customer service,4,user_38
+2024-07-10,prod1,amazon,"Great product, battery lasts long",2,user_39
+2024-01-01,prod1,amazon,"Satisfied, but camera could be better",1,user_40
+2024-01-17,prod3,amazon,"Great product, battery lasts long",1,user_41
+2024-06-11,prod3,amazon,"Great product, battery lasts long",4,user_42
+2024-07-17,prod1,amazon,"Great product, battery lasts long",3,user_43
+2024-04-22,prod2,amazon,"Satisfied, but camera could be better",2,user_44
+2024-10-14,prod1,amazon,Poor build quality,4,user_45
+2024-02-15,prod1,amazon,"Satisfied, but camera could be better",5,user_46
+2024-02-27,prod3,amazon,Poor build quality,1,user_47
+2024-09-05,prod2,amazon,Poor build quality,5,user_48
+2024-03-07,prod3,amazon,Good value for money,5,user_49
+2024-01-01,prod3,amazon,Poor build quality,3,user_50
+2024-02-18,prod1,amazon,Good value for money,2,user_51
+2024-01-28,prod3,amazon,Terrible customer service,2,user_52
+2024-02-10,prod3,amazon,"Satisfied, but camera could be better",1,user_53
+2024-05-21,prod2,amazon,Good value for money,5,user_54
+2024-10-01,prod3,amazon,Poor build quality,3,user_55
+2024-05-26,prod2,amazon,"Great product, battery lasts long",4,user_56
+2024-04-08,prod2,amazon,Terrible customer service,3,user_57
+2024-07-30,prod3,amazon,"Satisfied, but camera could be better",5,user_58
+2024-06-05,prod3,amazon,Good value for money,1,user_59
+2024-08-23,prod3,amazon,Good value for money,5,user_60
+2024-09-17,prod2,amazon,Terrible customer service,5,user_61
+2024-08-30,prod1,amazon,Good value for money,2,user_62
+2024-10-03,prod1,amazon,Terrible customer service,5,user_63
+2024-02-16,prod3,amazon,"Satisfied, but camera could be better",5,user_64
+2024-08-28,prod3,amazon,Good value for money,1,user_65
+2024-06-11,prod1,amazon,"Great product, battery lasts long",5,user_66
+2024-03-22,prod3,amazon,Terrible customer service,3,user_67
+2024-05-20,prod1,amazon,Poor build quality,1,user_68
+2024-01-06,prod2,amazon,"Great product, battery lasts long",1,user_69
+2024-09-19,prod3,amazon,"Satisfied, but camera could be better",5,user_70
+2024-04-23,prod3,amazon,"Great product, battery lasts long",2,user_71
+2024-06-19,prod1,amazon,Terrible customer service,3,user_72
+2024-06-06,prod2,amazon,Poor build quality,1,user_73
+2024-09-16,prod1,amazon,"Great product, battery lasts long",5,user_74
+2024-08-19,prod2,amazon,Poor build quality,5,user_75
+2024-06-26,prod1,amazon,Poor build quality,5,user_76
+2024-03-24,prod1,amazon,"Great product, battery lasts long",1,user_77
+2024-10-24,prod2,amazon,Terrible customer service,3,user_78
+2024-09-26,prod1,amazon,Good value for money,5,user_79
+2024-03-17,prod1,amazon,"Satisfied, but camera could be better",3,user_80
+2024-02-09,prod2,amazon,"Great product, battery lasts long",3,user_81
+2024-06-18,prod1,amazon,Terrible customer service,1,user_82
+2024-03-21,prod1,amazon,Terrible customer service,2,user_83
+2024-02-19,prod2,amazon,Terrible customer service,5,user_84
+2024-03-24,prod2,amazon,Poor build quality,5,user_85
+2024-01-12,prod1,amazon,"Great product, battery lasts long",2,user_86
+2024-03-21,prod2,amazon,"Great product, battery lasts long",2,user_87
+2024-05-04,prod1,amazon,"Satisfied, but camera could be better",4,user_88
+2024-07-26,prod1,amazon,"Great product, battery lasts long",3,user_89
+2024-08-07,prod3,amazon,Terrible customer service,2,user_90
+2024-10-14,prod1,amazon,Poor build quality,4,user_91
+2024-05-20,prod3,amazon,Good value for money,1,user_92
+2024-07-13,prod1,amazon,"Great product, battery lasts long",5,user_93
+2024-05-05,prod3,amazon,Poor build quality,3,user_94
+2024-07-24,prod2,amazon,Poor build quality,4,user_95
+2024-08-07,prod3,amazon,Terrible customer service,3,user_96
+2024-03-12,prod2,amazon,"Satisfied, but camera could be better",3,user_97
+2024-04-06,prod3,amazon,Poor build quality,5,user_98
+2024-09-03,prod3,amazon,Poor build quality,1,user_99
+2024-01-26,prod2,amazon,"Satisfied, but camera could be better",3,user_100
+2024-08-22,prod2,amazon,Good value for money,2,user_101
+2024-05-30,prod1,amazon,"Great product, battery lasts long",4,user_102
+2024-06-03,prod3,amazon,Poor build quality,5,user_103
+2024-06-27,prod3,amazon,"Great product, battery lasts long",4,user_104
+2024-03-02,prod1,amazon,"Great product, battery lasts long",5,user_105
+2024-04-18,prod1,amazon,Terrible customer service,1,user_106
+2024-10-22,prod3,amazon,Poor build quality,1,user_107
+2024-09-08,prod1,amazon,Good value for money,5,user_108
+2024-01-21,prod1,amazon,Good value for money,1,user_109
+2024-06-30,prod1,amazon,Good value for money,4,user_110
+2024-03-11,prod1,amazon,Good value for money,2,user_111
+2024-01-27,prod1,amazon,Terrible customer service,1,user_112
+2024-02-19,prod2,amazon,Terrible customer service,5,user_113
+2024-01-19,prod1,amazon,"Satisfied, but camera could be better",2,user_114
+2024-05-26,prod3,amazon,"Great product, battery lasts long",2,user_115
+2024-05-15,prod2,amazon,Good value for money,3,user_116
+2024-03-15,prod2,amazon,Terrible customer service,5,user_117
+2024-04-12,prod3,amazon,"Great product, battery lasts long",1,user_118
+2024-04-17,prod3,amazon,"Satisfied, but camera could be better",3,user_119
+2024-07-04,prod2,amazon,"Great product, battery lasts long",3,user_120
+2024-04-03,prod2,amazon,"Satisfied, but camera could be better",2,user_121
+2024-02-26,prod3,amazon,"Great product, battery lasts long",2,user_122
+2024-07-15,prod2,amazon,Poor build quality,2,user_123
+2024-01-17,prod3,amazon,"Satisfied, but camera could be better",4,user_124
+2024-07-30,prod3,amazon,"Satisfied, but camera could be better",3,user_125
+2024-05-16,prod2,amazon,Terrible customer service,3,user_126
+2024-07-11,prod3,amazon,"Great product, battery lasts long",5,user_127
+2024-08-11,prod1,amazon,Good value for money,3,user_128
+2024-04-07,prod2,amazon,Poor build quality,2,user_129
+2024-08-26,prod2,amazon,"Great product, battery lasts long",5,user_130
+2024-05-30,prod3,amazon,"Satisfied, but camera could be better",3,user_131
+2024-04-16,prod1,amazon,Good value for money,5,user_132
+2024-01-08,prod1,amazon,"Satisfied, but camera could be better",4,user_133
+2024-03-01,prod1,amazon,"Great product, battery lasts long",1,user_134
+2024-02-29,prod3,amazon,"Great product, battery lasts long",4,user_135
+2024-04-25,prod2,amazon,Terrible customer service,4,user_136
+2024-05-30,prod2,amazon,Good value for money,2,user_137
+2024-08-04,prod1,amazon,Terrible customer service,2,user_138
+2024-02-06,prod3,amazon,Poor build quality,5,user_139
+2024-06-11,prod3,amazon,Terrible customer service,4,user_140
+2024-08-20,prod3,amazon,Terrible customer service,4,user_141
+2024-01-19,prod1,amazon,"Great product, battery lasts long",2,user_142
+2024-06-27,prod1,amazon,Poor build quality,1,user_143
+2024-03-07,prod1,amazon,Poor build quality,4,user_144
+2024-08-15,prod3,amazon,"Great product, battery lasts long",2,user_145
+2024-03-10,prod3,amazon,Good value for money,1,user_146
+2024-04-13,prod1,amazon,Terrible customer service,2,user_147
+2024-09-02,prod3,amazon,"Satisfied, but camera could be better",4,user_148
+2024-04-21,prod2,amazon,"Great product, battery lasts long",4,user_149
+2024-06-02,prod3,amazon,"Great product, battery lasts long",5,user_150
+2024-06-29,prod1,amazon,Poor build quality,1,user_151
+2024-09-06,prod1,amazon,Poor build quality,2,user_152
+2024-03-08,prod3,amazon,Poor build quality,1,user_153
+2024-02-12,prod1,amazon,"Satisfied, but camera could be better",1,user_154
+2024-04-17,prod2,amazon,Good value for money,2,user_155
+2024-04-16,prod3,amazon,"Great product, battery lasts long",4,user_156
+2024-06-18,prod1,amazon,Good value for money,5,user_157
+2024-10-10,prod3,amazon,Poor build quality,2,user_158
+2024-03-09,prod1,amazon,Poor build quality,3,user_159
+2024-02-29,prod1,amazon,"Satisfied, but camera could be better",4,user_160
+2024-08-26,prod2,amazon,Terrible customer service,3,user_161
+2024-03-17,prod1,amazon,Terrible customer service,2,user_162
+2024-03-19,prod2,amazon,"Satisfied, but camera could be better",3,user_163
+2024-09-14,prod2,amazon,Poor build quality,4,user_164
+2024-07-31,prod2,amazon,Poor build quality,5,user_165
+2024-06-02,prod1,amazon,Good value for money,5,user_166
+2024-01-22,prod3,amazon,Good value for money,2,user_167
+2024-04-19,prod1,amazon,Good value for money,1,user_168
+2024-09-18,prod2,amazon,"Satisfied, but camera could be better",2,user_169
+2024-04-22,prod1,amazon,"Satisfied, but camera could be better",4,user_170
+2024-04-16,prod2,amazon,"Great product, battery lasts long",2,user_171
+2024-10-20,prod3,amazon,Poor build quality,4,user_172
+2024-04-30,prod3,amazon,"Satisfied, but camera could be better",1,user_173
+2024-03-07,prod1,amazon,Poor build quality,3,user_174
+2024-05-28,prod1,amazon,Poor build quality,4,user_175
+2024-01-04,prod3,amazon,Poor build quality,1,user_176
+2024-07-15,prod3,amazon,"Satisfied, but camera could be better",3,user_177
+2024-02-25,prod3,amazon,Terrible customer service,2,user_178
+2024-03-27,prod2,amazon,"Satisfied, but camera could be better",3,user_179
+2024-03-09,prod2,amazon,"Great product, battery lasts long",5,user_180
+2024-07-01,prod2,amazon,Poor build quality,2,user_181
+2024-02-10,prod1,amazon,"Satisfied, but camera could be better",4,user_182
+2024-03-10,prod3,amazon,"Great product, battery lasts long",4,user_183
+2024-05-13,prod1,amazon,Poor build quality,3,user_184
+2024-01-17,prod2,amazon,Poor build quality,2,user_185
+2024-05-25,prod3,amazon,Poor build quality,2,user_186
+2024-05-14,prod1,amazon,Terrible customer service,4,user_187
+2024-10-14,prod2,amazon,Poor build quality,4,user_188
+2024-03-25,prod2,amazon,Good value for money,5,user_189
+2024-08-10,prod1,amazon,Good value for money,2,user_190
+2024-04-11,prod3,amazon,Terrible customer service,1,user_191
+2024-04-15,prod1,amazon,Poor build quality,1,user_192
+2024-08-14,prod3,amazon,"Satisfied, but camera could be better",4,user_193
+2024-04-23,prod1,amazon,Poor build quality,4,user_194
+2024-07-16,prod2,amazon,"Satisfied, but camera could be better",5,user_195
+2024-04-25,prod2,amazon,"Satisfied, but camera could be better",5,user_196
+2024-02-18,prod3,amazon,Poor build quality,2,user_197
+2024-05-26,prod1,amazon,Good value for money,5,user_198
+2024-04-04,prod1,amazon,"Great product, battery lasts long",3,user_199
+2024-09-11,prod3,amazon,Good value for money,5,user_200
+2024-07-02,prod2,amazon,"Satisfied, but camera could be better",3,user_201
+2024-09-13,prod1,amazon,"Satisfied, but camera could be better",1,user_202
+2024-05-13,prod2,amazon,Terrible customer service,4,user_203
+2024-01-28,prod3,amazon,"Great product, battery lasts long",5,user_204
+2024-10-07,prod3,amazon,"Satisfied, but camera could be better",1,user_205
+2024-08-06,prod1,amazon,Poor build quality,1,user_206
+2024-07-24,prod2,amazon,"Great product, battery lasts long",2,user_207
+2024-03-20,prod1,amazon,"Satisfied, but camera could be better",5,user_208
+2024-06-14,prod1,amazon,"Great product, battery lasts long",5,user_209
+2024-04-13,prod1,amazon,Good value for money,1,user_210
+2024-07-29,prod3,amazon,"Great product, battery lasts long",3,user_211
+2024-02-24,prod3,amazon,Good value for money,1,user_212
+2024-01-30,prod1,amazon,"Great product, battery lasts long",5,user_213
+2024-06-30,prod2,amazon,Good value for money,4,user_214
+2024-01-20,prod1,amazon,Good value for money,4,user_215
+2024-01-31,prod1,amazon,Poor build quality,4,user_216
+2024-02-15,prod2,amazon,Good value for money,1,user_217
+2024-05-19,prod1,amazon,"Satisfied, but camera could be better",3,user_218
+2024-06-12,prod2,amazon,Terrible customer service,3,user_219
+2024-06-29,prod2,amazon,Poor build quality,4,user_220
+2024-05-27,prod3,amazon,"Great product, battery lasts long",5,user_221
+2024-06-23,prod2,amazon,"Satisfied, but camera could be better",1,user_222
+2024-01-15,prod1,amazon,Terrible customer service,3,user_223
+2024-07-12,prod1,amazon,"Satisfied, but camera could be better",1,user_224
+2024-09-06,prod1,amazon,Poor build quality,3,user_225
+2024-03-24,prod3,amazon,Poor build quality,5,user_226
+2024-02-12,prod1,amazon,Good value for money,1,user_227
+2024-10-17,prod1,amazon,Good value for money,4,user_228
+2024-04-03,prod3,amazon,Poor build quality,4,user_229
+2024-09-30,prod2,amazon,Poor build quality,5,user_230
+2024-02-23,prod1,amazon,"Great product, battery lasts long",4,user_231
+2024-03-20,prod3,amazon,"Great product, battery lasts long",4,user_232
+2024-03-30,prod1,amazon,"Satisfied, but camera could be better",1,user_233
+2024-03-05,prod1,amazon,Good value for money,5,user_234
+2024-07-16,prod3,amazon,"Satisfied, but camera could be better",1,user_235
+2024-05-01,prod1,amazon,Good value for money,2,user_236
+2024-01-04,prod1,amazon,Terrible customer service,2,user_237
+2024-03-16,prod3,amazon,Good value for money,4,user_238
+2024-06-01,prod3,amazon,Terrible customer service,2,user_239
+2024-04-28,prod1,amazon,Poor build quality,3,user_240
+2024-05-14,prod3,amazon,Terrible customer service,1,user_241
+2024-02-20,prod2,amazon,Good value for money,2,user_242
+2024-03-19,prod3,amazon,Good value for money,5,user_243
+2024-03-10,prod3,amazon,Good value for money,4,user_244
+2024-07-12,prod1,amazon,"Great product, battery lasts long",5,user_245
+2024-06-10,prod1,amazon,Poor build quality,5,user_246
+2024-10-07,prod3,amazon,Poor build quality,5,user_247
+2024-05-19,prod2,amazon,Poor build quality,1,user_248
+2024-02-15,prod1,amazon,Good value for money,5,user_249
+2024-06-18,prod1,amazon,"Great product, battery lasts long",4,user_250
+2024-01-19,prod3,amazon,Poor build quality,2,user_251
+2024-06-24,prod3,amazon,"Great product, battery lasts long",4,user_252
+2024-05-18,prod1,amazon,Terrible customer service,1,user_253
+2024-07-07,prod2,amazon,"Great product, battery lasts long",1,user_254
+2024-06-06,prod2,amazon,Good value for money,4,user_255
+2024-07-13,prod1,amazon,"Satisfied, but camera could be better",1,user_256
+2024-01-03,prod3,amazon,Terrible customer service,5,user_257
+2024-09-19,prod2,amazon,"Satisfied, but camera could be better",4,user_258
+2024-06-06,prod1,amazon,"Satisfied, but camera could be better",3,user_259
+2024-03-25,prod3,amazon,Good value for money,3,user_260
+2024-09-25,prod2,amazon,Terrible customer service,1,user_261
+2024-03-27,prod1,amazon,Good value for money,4,user_262
+2024-08-13,prod2,amazon,Terrible customer service,1,user_263
+2024-02-25,prod3,amazon,"Great product, battery lasts long",1,user_264
+2024-02-03,prod3,amazon,Poor build quality,1,user_265
+2024-07-30,prod2,amazon,Terrible customer service,2,user_266
+2024-08-18,prod2,amazon,"Satisfied, but camera could be better",2,user_267
+2024-03-02,prod2,amazon,Terrible customer service,2,user_268
+2024-09-30,prod3,amazon,Poor build quality,4,user_269
+2024-05-21,prod1,amazon,Poor build quality,1,user_270
+2024-01-12,prod1,amazon,Good value for money,3,user_271
+2024-08-18,prod3,amazon,Terrible customer service,1,user_272
+2024-10-19,prod1,amazon,"Great product, battery lasts long",1,user_273
+2024-09-03,prod3,amazon,Poor build quality,4,user_274
+2024-04-14,prod2,amazon,Good value for money,2,user_275
+2024-07-24,prod1,amazon,Good value for money,4,user_276
+2024-08-23,prod1,amazon,"Satisfied, but camera could be better",4,user_277
+2024-07-28,prod2,amazon,Terrible customer service,4,user_278
+2024-04-28,prod2,amazon,"Satisfied, but camera could be better",5,user_279
+2024-03-15,prod3,amazon,Poor build quality,3,user_280
+2024-08-28,prod3,amazon,Good value for money,2,user_281
+2024-08-06,prod1,amazon,Terrible customer service,4,user_282
+2024-05-10,prod1,amazon,Good value for money,4,user_283
+2024-04-14,prod2,amazon,Good value for money,2,user_284
+2024-01-01,prod3,amazon,Poor build quality,2,user_285
+2024-08-31,prod1,amazon,Terrible customer service,1,user_286
+2024-02-04,prod2,amazon,Terrible customer service,1,user_287
+2024-05-14,prod2,amazon,Terrible customer service,5,user_288
+2024-02-05,prod2,amazon,Poor build quality,1,user_289
+2024-08-10,prod1,amazon,"Great product, battery lasts long",5,user_290
+2024-03-07,prod2,amazon,Good value for money,1,user_291
+2024-01-14,prod1,amazon,Good value for money,5,user_292
+2024-07-18,prod2,amazon,"Great product, battery lasts long",4,user_293
+2024-02-15,prod2,amazon,Poor build quality,2,user_294
+2024-05-22,prod2,amazon,Poor build quality,1,user_295
+2024-05-30,prod1,amazon,"Satisfied, but camera could be better",3,user_296
+2024-05-18,prod2,amazon,Terrible customer service,5,user_297
+2024-06-04,prod2,amazon,Poor build quality,1,user_298
+2024-01-28,prod2,amazon,Poor build quality,2,user_299
+2024-09-21,prod2,amazon,"Great product, battery lasts long",4,user_300
+2024-09-18,prod3,amazon,Terrible customer service,5,user_301
+2024-08-09,prod2,amazon,Terrible customer service,3,user_302
+2024-06-14,prod1,amazon,Good value for money,2,user_303
+2024-06-11,prod1,amazon,Good value for money,2,user_304
+2024-09-05,prod3,amazon,Poor build quality,4,user_305
+2024-02-15,prod1,amazon,Terrible customer service,5,user_306
+2024-05-20,prod3,amazon,Terrible customer service,5,user_307
+2024-08-16,prod2,amazon,Terrible customer service,5,user_308
+2024-01-31,prod3,amazon,"Great product, battery lasts long",2,user_309
+2024-05-02,prod3,amazon,"Satisfied, but camera could be better",3,user_310
+2024-06-08,prod3,amazon,Poor build quality,4,user_311
+2024-08-21,prod2,amazon,Terrible customer service,2,user_312
+2024-10-07,prod3,amazon,"Satisfied, but camera could be better",3,user_313
+2024-02-22,prod1,amazon,Good value for money,3,user_314
+2024-09-19,prod2,amazon,Poor build quality,4,user_315
+2024-02-07,prod2,amazon,Terrible customer service,1,user_316
+2024-04-02,prod3,amazon,Terrible customer service,1,user_317
+2024-03-24,prod1,amazon,Good value for money,5,user_318
+2024-02-22,prod3,amazon,Poor build quality,2,user_319
+2024-07-10,prod3,amazon,"Great product, battery lasts long",3,user_320
+2024-06-28,prod1,amazon,Poor build quality,5,user_321
+2024-09-27,prod3,amazon,Terrible customer service,3,user_322
+2024-06-03,prod1,amazon,Good value for money,2,user_323
+2024-10-14,prod1,amazon,"Great product, battery lasts long",1,user_324
+2024-10-09,prod2,amazon,Poor build quality,2,user_325
+2024-02-16,prod1,amazon,"Satisfied, but camera could be better",3,user_326
+2024-04-12,prod1,amazon,"Satisfied, but camera could be better",4,user_327
+2024-05-09,prod2,amazon,Terrible customer service,5,user_328
+2024-08-19,prod1,amazon,Good value for money,4,user_329
+2024-08-21,prod2,amazon,"Satisfied, but camera could be better",4,user_330
+2024-07-25,prod2,amazon,Poor build quality,5,user_331
+2024-09-26,prod2,amazon,"Great product, battery lasts long",5,user_332
+2024-04-19,prod1,amazon,Good value for money,2,user_333
+2024-05-12,prod2,amazon,"Satisfied, but camera could be better",2,user_334
+2024-06-22,prod2,amazon,"Great product, battery lasts long",2,user_335
+2024-10-20,prod2,amazon,Poor build quality,5,user_336
+2024-04-28,prod3,amazon,Good value for money,5,user_337
+2024-07-02,prod2,amazon,Good value for money,2,user_338
+2024-07-11,prod2,amazon,Terrible customer service,3,user_339
+2024-06-01,prod1,amazon,Terrible customer service,4,user_340
+2024-02-29,prod3,amazon,"Great product, battery lasts long",3,user_341
+2024-07-06,prod3,amazon,"Satisfied, but camera could be better",1,user_342
+2024-04-10,prod3,amazon,"Satisfied, but camera could be better",5,user_343
+2024-07-06,prod2,amazon,"Satisfied, but camera could be better",5,user_344
+2024-09-21,prod1,amazon,Terrible customer service,2,user_345
+2024-08-08,prod2,amazon,Good value for money,4,user_346
+2024-04-24,prod3,amazon,Poor build quality,2,user_347
+2024-04-22,prod1,amazon,Poor build quality,5,user_348
+2024-03-13,prod1,amazon,Terrible customer service,4,user_349
+2024-01-31,prod3,amazon,Good value for money,3,user_350
+2024-06-12,prod2,amazon,"Satisfied, but camera could be better",1,user_351
+2024-04-25,prod3,amazon,Terrible customer service,5,user_352
+2024-05-31,prod1,amazon,Terrible customer service,4,user_353
+2024-05-26,prod3,amazon,"Satisfied, but camera could be better",1,user_354
+2024-06-14,prod2,amazon,Terrible customer service,3,user_355
+2024-03-14,prod1,amazon,Good value for money,3,user_356
+2024-10-11,prod1,amazon,Good value for money,1,user_357
+2024-09-08,prod3,amazon,Good value for money,4,user_358
+2024-04-05,prod3,amazon,Good value for money,5,user_359
+2024-03-23,prod3,amazon,"Satisfied, but camera could be better",1,user_360
+2024-08-15,prod1,amazon,Poor build quality,2,user_361
+2024-04-08,prod1,amazon,Poor build quality,4,user_362
+2024-10-19,prod1,amazon,Good value for money,4,user_363
+2024-05-10,prod2,amazon,"Great product, battery lasts long",3,user_364
+2024-06-17,prod2,amazon,"Satisfied, but camera could be better",3,user_365
+2024-08-11,prod3,amazon,Terrible customer service,4,user_366
+2024-05-18,prod3,amazon,"Satisfied, but camera could be better",4,user_367
+2024-05-12,prod2,amazon,Terrible customer service,3,user_368
+2024-08-25,prod2,amazon,"Satisfied, but camera could be better",4,user_369
+2024-08-22,prod2,amazon,"Satisfied, but camera could be better",4,user_370
+2024-01-10,prod2,amazon,Poor build quality,3,user_371
+2024-05-03,prod1,amazon,Terrible customer service,2,user_372
+2024-09-30,prod2,amazon,"Satisfied, but camera could be better",5,user_373
+2024-04-20,prod3,amazon,Poor build quality,1,user_374
+2024-05-04,prod3,amazon,"Satisfied, but camera could be better",2,user_375
+2024-10-25,prod3,amazon,Poor build quality,1,user_376
+2024-09-28,prod3,amazon,Good value for money,2,user_377
+2024-07-22,prod1,amazon,"Satisfied, but camera could be better",3,user_378
+2024-01-26,prod2,amazon,"Satisfied, but camera could be better",5,user_379
+2024-06-29,prod2,amazon,Terrible customer service,1,user_380
+2024-01-15,prod2,amazon,Poor build quality,4,user_381
+2024-06-02,prod3,amazon,Good value for money,3,user_382
+2024-09-14,prod1,amazon,Good value for money,5,user_383
+2024-05-21,prod3,amazon,Terrible customer service,5,user_384
+2024-02-21,prod1,amazon,"Great product, battery lasts long",5,user_385
+2024-07-29,prod1,amazon,Good value for money,5,user_386
+2024-05-26,prod3,amazon,Good value for money,2,user_387
+2024-03-13,prod1,amazon,Good value for money,4,user_388
+2024-08-14,prod2,amazon,"Great product, battery lasts long",3,user_389
+2024-09-23,prod3,amazon,"Satisfied, but camera could be better",3,user_390
+2024-06-09,prod1,amazon,"Satisfied, but camera could be better",4,user_391
+2024-09-27,prod3,amazon,Poor build quality,3,user_392
+2024-03-02,prod1,amazon,Poor build quality,2,user_393
+2024-08-12,prod2,amazon,Terrible customer service,4,user_394
+2024-09-22,prod1,amazon,"Great product, battery lasts long",3,user_395
+2024-02-18,prod1,amazon,Poor build quality,5,user_396
+2024-04-27,prod3,amazon,Terrible customer service,2,user_397
+2024-09-16,prod2,amazon,Poor build quality,5,user_398
+2024-07-08,prod2,amazon,"Great product, battery lasts long",5,user_399
+2024-06-16,prod1,amazon,Poor build quality,4,user_400
+2024-05-25,prod3,amazon,"Great product, battery lasts long",1,user_401
+2024-09-25,prod2,amazon,Terrible customer service,1,user_402
+2024-08-13,prod2,amazon,Terrible customer service,4,user_403
+2024-08-16,prod2,amazon,"Great product, battery lasts long",2,user_404
+2024-07-22,prod1,amazon,Poor build quality,5,user_405
+2024-08-26,prod2,amazon,"Great product, battery lasts long",1,user_406
+2024-09-06,prod2,amazon,Poor build quality,1,user_407
+2024-10-19,prod1,amazon,Poor build quality,2,user_408
+2024-03-26,prod2,amazon,Terrible customer service,5,user_409
+2024-10-05,prod2,amazon,"Great product, battery lasts long",1,user_410
+2024-08-07,prod2,amazon,Terrible customer service,2,user_411
+2024-02-14,prod1,amazon,"Great product, battery lasts long",1,user_412
+2024-09-14,prod3,amazon,"Satisfied, but camera could be better",2,user_413
+2024-02-26,prod1,amazon,Terrible customer service,3,user_414
+2024-01-30,prod2,amazon,Terrible customer service,2,user_415
+2024-10-10,prod2,amazon,Terrible customer service,1,user_416
+2024-05-13,prod2,amazon,"Great product, battery lasts long",1,user_417
+2024-10-21,prod2,amazon,Good value for money,2,user_418
+2024-04-01,prod1,amazon,Terrible customer service,4,user_419
+2024-05-02,prod1,amazon,"Satisfied, but camera could be better",3,user_420
+2024-02-28,prod3,amazon,"Great product, battery lasts long",4,user_421
+2024-03-04,prod2,amazon,"Great product, battery lasts long",4,user_422
+2024-10-25,prod1,amazon,"Great product, battery lasts long",5,user_423
+2024-04-08,prod2,amazon,Terrible customer service,5,user_424
+2024-08-04,prod3,amazon,"Great product, battery lasts long",2,user_425
+2024-09-18,prod2,amazon,Poor build quality,3,user_426
+2024-06-26,prod2,amazon,Poor build quality,2,user_427
+2024-05-28,prod3,amazon,Terrible customer service,2,user_428
+2024-02-26,prod2,amazon,Terrible customer service,4,user_429
+2024-01-16,prod3,amazon,Good value for money,2,user_430
+2024-07-14,prod3,amazon,Poor build quality,3,user_431
+2024-05-27,prod3,amazon,Poor build quality,4,user_432
+2024-01-06,prod2,amazon,"Satisfied, but camera could be better",1,user_433
+2024-10-06,prod3,amazon,Terrible customer service,5,user_434
+2024-02-20,prod3,amazon,Good value for money,1,user_435
+2024-08-15,prod3,amazon,"Satisfied, but camera could be better",3,user_436
+2024-05-11,prod3,amazon,"Satisfied, but camera could be better",2,user_437
+2024-07-10,prod3,amazon,"Satisfied, but camera could be better",1,user_438
+2024-04-05,prod2,amazon,"Great product, battery lasts long",2,user_439
+2024-10-02,prod2,amazon,Poor build quality,1,user_440
+2024-06-01,prod2,amazon,"Satisfied, but camera could be better",5,user_441
+2024-02-20,prod1,amazon,Terrible customer service,3,user_442
+2024-08-09,prod1,amazon,Poor build quality,5,user_443
+2024-07-14,prod1,amazon,"Satisfied, but camera could be better",2,user_444
+2024-09-17,prod2,amazon,"Great product, battery lasts long",2,user_445
+2024-02-04,prod2,amazon,"Great product, battery lasts long",4,user_446
+2024-08-24,prod1,amazon,"Great product, battery lasts long",2,user_447
+2024-04-23,prod3,amazon,Good value for money,1,user_448
+2024-07-16,prod1,amazon,"Satisfied, but camera could be better",5,user_449
+2024-01-01,prod2,amazon,Terrible customer service,5,user_450
+2024-08-16,prod3,amazon,"Satisfied, but camera could be better",5,user_451
+2024-04-23,prod3,amazon,Poor build quality,3,user_452
+2024-10-16,prod2,amazon,Terrible customer service,1,user_453
+2024-04-23,prod3,amazon,Terrible customer service,1,user_454
+2024-07-20,prod3,amazon,"Great product, battery lasts long",2,user_455
+2024-03-14,prod3,amazon,"Great product, battery lasts long",4,user_456
+2024-05-12,prod3,amazon,Terrible customer service,5,user_457
+2024-06-07,prod1,amazon,Terrible customer service,1,user_458
+2024-06-04,prod1,amazon,Terrible customer service,4,user_459
+2024-03-01,prod3,amazon,Poor build quality,3,user_460
+2024-09-03,prod3,amazon,Good value for money,1,user_461
+2024-04-04,prod1,amazon,Terrible customer service,3,user_462
+2024-07-08,prod3,amazon,Poor build quality,3,user_463
+2024-09-05,prod1,amazon,"Great product, battery lasts long",3,user_464
+2024-10-24,prod1,amazon,Poor build quality,3,user_465
+2024-09-27,prod2,amazon,"Great product, battery lasts long",4,user_466
+2024-08-07,prod2,amazon,Terrible customer service,4,user_467
+2024-10-14,prod2,amazon,Terrible customer service,1,user_468
+2024-01-09,prod1,amazon,"Satisfied, but camera could be better",3,user_469
+2024-04-11,prod3,amazon,"Satisfied, but camera could be better",1,user_470
+2024-10-22,prod1,amazon,Good value for money,4,user_471
+2024-01-02,prod2,amazon,Poor build quality,3,user_472
+2024-08-02,prod3,amazon,Poor build quality,1,user_473
+2024-04-21,prod3,amazon,"Great product, battery lasts long",2,user_474
+2024-09-05,prod1,amazon,"Satisfied, but camera could be better",4,user_475
+2024-04-08,prod2,amazon,Good value for money,1,user_476
+2024-02-19,prod1,amazon,Terrible customer service,2,user_477
+2024-08-08,prod1,amazon,Terrible customer service,3,user_478
+2024-02-19,prod3,amazon,Terrible customer service,4,user_479
+2024-06-09,prod1,amazon,Poor build quality,1,user_480
+2024-04-10,prod2,amazon,Poor build quality,1,user_481
+2024-09-18,prod1,amazon,"Satisfied, but camera could be better",4,user_482
+2024-06-25,prod2,amazon,Terrible customer service,3,user_483
+2024-08-03,prod3,amazon,"Great product, battery lasts long",5,user_484
+2024-02-16,prod3,amazon,"Satisfied, but camera could be better",3,user_485
+2024-01-19,prod2,amazon,"Satisfied, but camera could be better",4,user_486
+2024-07-02,prod1,amazon,"Great product, battery lasts long",5,user_487
+2024-08-16,prod3,amazon,Poor build quality,3,user_488
+2024-10-15,prod2,amazon,"Great product, battery lasts long",2,user_489
+2024-03-09,prod1,amazon,"Great product, battery lasts long",1,user_490
+2024-09-10,prod3,amazon,Good value for money,4,user_491
+2024-04-01,prod2,amazon,"Great product, battery lasts long",5,user_492
+2024-03-02,prod3,amazon,"Great product, battery lasts long",4,user_493
+2024-01-24,prod3,amazon,"Satisfied, but camera could be better",3,user_494
+2024-06-28,prod2,amazon,Terrible customer service,5,user_495
+2024-08-26,prod1,amazon,"Satisfied, but camera could be better",3,user_496
+2024-02-12,prod1,amazon,Terrible customer service,2,user_497
+2024-10-18,prod3,amazon,"Satisfied, but camera could be better",2,user_498
+2024-10-05,prod1,amazon,"Great product, battery lasts long",1,user_499
+2024-10-12,prod3,amazon,Terrible customer service,1,user_500
+2024-09-13,prod2,amazon,"Satisfied, but camera could be better",1,user_501
+2024-07-17,prod1,amazon,Terrible customer service,5,user_502
+2024-09-02,prod1,amazon,Poor build quality,5,user_503
+2024-07-11,prod3,amazon,Terrible customer service,1,user_504
+2024-07-04,prod1,amazon,"Satisfied, but camera could be better",1,user_505
+2024-04-07,prod1,amazon,"Great product, battery lasts long",5,user_506
+2024-04-06,prod3,amazon,"Satisfied, but camera could be better",5,user_507
+2024-04-01,prod1,amazon,"Great product, battery lasts long",1,user_508
+2024-02-17,prod3,amazon,Good value for money,2,user_509
+2024-02-23,prod1,amazon,"Great product, battery lasts long",2,user_510
+2024-03-10,prod1,amazon,Terrible customer service,2,user_511
+2024-09-09,prod2,amazon,Terrible customer service,4,user_512
+2024-07-09,prod2,amazon,Poor build quality,2,user_513
+2024-02-11,prod3,amazon,Terrible customer service,1,user_514
+2024-09-30,prod1,amazon,"Great product, battery lasts long",4,user_515
+2024-02-20,prod1,amazon,"Satisfied, but camera could be better",1,user_516
+2024-03-09,prod2,amazon,Good value for money,5,user_517
+2024-04-28,prod2,amazon,"Satisfied, but camera could be better",2,user_518
+2024-03-22,prod2,amazon,"Satisfied, but camera could be better",2,user_519
+2024-02-10,prod3,amazon,"Great product, battery lasts long",5,user_520
+2024-01-29,prod1,amazon,Poor build quality,5,user_521
+2024-02-06,prod1,amazon,"Great product, battery lasts long",2,user_522
+2024-10-19,prod2,amazon,"Great product, battery lasts long",4,user_523
+2024-09-29,prod2,amazon,"Great product, battery lasts long",4,user_524
+2024-03-22,prod2,amazon,"Great product, battery lasts long",1,user_525
+2024-05-04,prod2,amazon,"Satisfied, but camera could be better",5,user_526
+2024-02-14,prod2,amazon,Good value for money,1,user_527
+2024-08-16,prod2,amazon,Poor build quality,4,user_528
+2024-07-15,prod2,amazon,Good value for money,2,user_529
+2024-09-19,prod3,amazon,"Satisfied, but camera could be better",1,user_530
+2024-04-12,prod2,amazon,"Great product, battery lasts long",1,user_531
+2024-01-07,prod2,amazon,Poor build quality,4,user_532
+2024-10-04,prod3,amazon,"Great product, battery lasts long",5,user_533
+2024-02-05,prod1,amazon,"Satisfied, but camera could be better",1,user_534
+2024-03-13,prod3,amazon,Poor build quality,3,user_535
+2024-02-22,prod3,amazon,Good value for money,5,user_536
+2024-08-24,prod1,amazon,"Satisfied, but camera could be better",2,user_537
+2024-03-02,prod1,amazon,"Great product, battery lasts long",1,user_538
+2024-02-16,prod3,amazon,Good value for money,3,user_539
+2024-07-16,prod1,amazon,Poor build quality,3,user_540
+2024-03-20,prod2,amazon,"Great product, battery lasts long",1,user_541
+2024-06-17,prod1,amazon,"Satisfied, but camera could be better",3,user_542
+2024-06-04,prod1,amazon,Poor build quality,3,user_543
+2024-07-14,prod1,amazon,Terrible customer service,5,user_544
+2024-10-13,prod1,amazon,Poor build quality,1,user_545
+2024-09-11,prod3,amazon,"Great product, battery lasts long",4,user_546
+2024-07-12,prod3,amazon,Poor build quality,4,user_547
+2024-07-18,prod2,amazon,"Satisfied, but camera could be better",4,user_548
+2024-06-11,prod2,amazon,Poor build quality,5,user_549
+2024-02-22,prod1,amazon,"Great product, battery lasts long",1,user_550
+2024-02-19,prod2,amazon,"Great product, battery lasts long",2,user_551
+2024-09-21,prod2,amazon,Terrible customer service,4,user_552
+2024-07-17,prod3,amazon,Terrible customer service,1,user_553
+2024-03-05,prod2,amazon,Poor build quality,1,user_554
+2024-03-30,prod3,amazon,"Great product, battery lasts long",4,user_555
+2024-05-31,prod2,amazon,"Satisfied, but camera could be better",5,user_556
+2024-08-04,prod1,amazon,Good value for money,3,user_557
+2024-01-17,prod1,amazon,"Satisfied, but camera could be better",1,user_558
+2024-04-15,prod1,amazon,"Satisfied, but camera could be better",3,user_559
+2024-10-07,prod1,amazon,Terrible customer service,5,user_560
+2024-10-10,prod1,amazon,Good value for money,5,user_561
+2024-06-10,prod2,amazon,Terrible customer service,4,user_562
+2024-05-27,prod3,amazon,"Satisfied, but camera could be better",2,user_563
+2024-01-29,prod2,amazon,"Satisfied, but camera could be better",1,user_564
+2024-05-09,prod2,amazon,Poor build quality,2,user_565
+2024-05-11,prod3,amazon,Good value for money,5,user_566
+2024-07-08,prod1,amazon,"Great product, battery lasts long",3,user_567
+2024-06-24,prod1,amazon,"Great product, battery lasts long",2,user_568
+2024-02-26,prod3,amazon,Good value for money,5,user_569
+2024-10-14,prod3,amazon,Good value for money,3,user_570
+2024-09-28,prod2,amazon,"Satisfied, but camera could be better",4,user_571
+2024-06-20,prod3,amazon,"Great product, battery lasts long",1,user_572
+2024-05-16,prod3,amazon,"Great product, battery lasts long",5,user_573
+2024-04-02,prod3,amazon,"Satisfied, but camera could be better",3,user_574
+2024-07-28,prod1,amazon,Poor build quality,4,user_575
+2024-09-25,prod1,amazon,"Satisfied, but camera could be better",2,user_576
+2024-05-03,prod1,amazon,"Satisfied, but camera could be better",3,user_577
+2024-08-15,prod2,amazon,"Satisfied, but camera could be better",1,user_578
+2024-06-28,prod1,amazon,"Great product, battery lasts long",3,user_579
+2024-01-10,prod1,amazon,Terrible customer service,1,user_580
+2024-08-25,prod2,amazon,Good value for money,1,user_581
+2024-04-24,prod3,amazon,Terrible customer service,5,user_582
+2024-05-11,prod3,amazon,Poor build quality,1,user_583
+2024-10-20,prod1,amazon,Good value for money,5,user_584
+2024-07-02,prod3,amazon,"Great product, battery lasts long",4,user_585
+2024-10-17,prod1,amazon,"Satisfied, but camera could be better",2,user_586
+2024-03-10,prod3,amazon,Terrible customer service,3,user_587
+2024-10-15,prod3,amazon,Good value for money,3,user_588
+2024-03-20,prod1,amazon,"Satisfied, but camera could be better",3,user_589
+2024-06-09,prod3,amazon,Terrible customer service,3,user_590
+2024-05-30,prod3,amazon,Terrible customer service,3,user_591
+2024-05-19,prod1,amazon,"Satisfied, but camera could be better",3,user_592
+2024-06-04,prod2,amazon,"Great product, battery lasts long",1,user_593
+2024-01-15,prod2,amazon,Terrible customer service,3,user_594
+2024-04-30,prod1,amazon,Poor build quality,3,user_595
+2024-03-04,prod2,amazon,"Great product, battery lasts long",2,user_596
+2024-04-25,prod3,amazon,Poor build quality,1,user_597
+2024-07-14,prod2,amazon,Poor build quality,3,user_598
+2024-05-09,prod2,amazon,"Great product, battery lasts long",3,user_599
+2024-01-25,prod3,amazon,"Great product, battery lasts long",4,user_600
+2024-07-09,prod1,amazon,Good value for money,4,user_601
+2024-10-19,prod1,amazon,"Satisfied, but camera could be better",5,user_602
+2024-07-22,prod3,amazon,Poor build quality,4,user_603
+2024-06-07,prod3,amazon,"Satisfied, but camera could be better",2,user_604
+2024-05-15,prod1,amazon,Good value for money,2,user_605
+2024-05-28,prod1,amazon,Terrible customer service,5,user_606
+2024-02-06,prod1,amazon,Poor build quality,2,user_607
+2024-05-31,prod1,amazon,Poor build quality,2,user_608
+2024-07-19,prod2,amazon,Good value for money,4,user_609
+2024-07-01,prod3,amazon,Terrible customer service,1,user_610
+2024-02-17,prod2,amazon,"Satisfied, but camera could be better",4,user_611
+2024-07-19,prod1,amazon,Good value for money,5,user_612
+2024-04-25,prod3,amazon,Terrible customer service,5,user_613
+2024-04-10,prod3,amazon,"Satisfied, but camera could be better",5,user_614
+2024-05-05,prod2,amazon,Terrible customer service,3,user_615
+2024-04-13,prod1,amazon,Good value for money,5,user_616
+2024-01-15,prod3,amazon,"Satisfied, but camera could be better",2,user_617
+2024-03-18,prod2,amazon,"Great product, battery lasts long",4,user_618
+2024-02-19,prod2,amazon,Poor build quality,5,user_619
+2024-03-10,prod1,amazon,"Great product, battery lasts long",1,user_620
+2024-04-14,prod1,amazon,Terrible customer service,2,user_621
+2024-10-02,prod3,amazon,Poor build quality,3,user_622
+2024-07-25,prod1,amazon,Good value for money,2,user_623
+2024-08-15,prod1,amazon,Poor build quality,3,user_624
+2024-04-21,prod3,amazon,"Great product, battery lasts long",3,user_625
+2024-05-13,prod1,amazon,Good value for money,1,user_626
+2024-03-14,prod1,amazon,"Great product, battery lasts long",3,user_627
+2024-01-02,prod1,amazon,Poor build quality,2,user_628
+2024-10-01,prod1,amazon,Terrible customer service,2,user_629
+2024-08-02,prod2,amazon,Terrible customer service,3,user_630
+2024-07-09,prod1,amazon,Good value for money,3,user_631
+2024-05-21,prod1,amazon,"Satisfied, but camera could be better",2,user_632
+2024-02-13,prod3,amazon,"Great product, battery lasts long",1,user_633
+2024-08-15,prod2,amazon,"Great product, battery lasts long",3,user_634
+2024-05-03,prod1,amazon,Poor build quality,4,user_635
+2024-10-10,prod2,amazon,"Satisfied, but camera could be better",3,user_636
+2024-05-08,prod3,amazon,Terrible customer service,4,user_637
+2024-06-06,prod3,amazon,"Satisfied, but camera could be better",4,user_638
+2024-06-16,prod3,amazon,Terrible customer service,5,user_639
+2024-10-08,prod2,amazon,Poor build quality,2,user_640
+2024-07-01,prod3,amazon,Good value for money,5,user_641
+2024-01-04,prod3,amazon,Terrible customer service,5,user_642
+2024-02-12,prod3,amazon,Terrible customer service,1,user_643
+2024-04-26,prod1,amazon,"Satisfied, but camera could be better",3,user_644
+2024-05-11,prod1,amazon,Poor build quality,1,user_645
+2024-02-12,prod3,amazon,"Satisfied, but camera could be better",4,user_646
+2024-02-24,prod1,amazon,Poor build quality,1,user_647
+2024-04-23,prod1,amazon,"Great product, battery lasts long",3,user_648
+2024-06-12,prod2,amazon,"Satisfied, but camera could be better",5,user_649
+2024-10-21,prod3,amazon,Terrible customer service,4,user_650
+2024-01-19,prod2,amazon,"Satisfied, but camera could be better",1,user_651
+2024-10-02,prod2,amazon,Good value for money,2,user_652
+2024-02-22,prod3,amazon,Poor build quality,2,user_653
+2024-01-18,prod3,amazon,Terrible customer service,3,user_654
+2024-01-28,prod3,amazon,Terrible customer service,1,user_655
+2024-02-19,prod3,amazon,Good value for money,3,user_656
+2024-04-09,prod2,amazon,Good value for money,1,user_657
+2024-01-16,prod2,amazon,"Great product, battery lasts long",1,user_658
+2024-01-31,prod2,amazon,Poor build quality,5,user_659
+2024-07-11,prod3,amazon,"Satisfied, but camera could be better",1,user_660
+2024-01-12,prod3,amazon,Terrible customer service,3,user_661
+2024-08-23,prod3,amazon,Poor build quality,5,user_662
+2024-04-26,prod3,amazon,Terrible customer service,1,user_663
+2024-08-30,prod3,amazon,"Great product, battery lasts long",5,user_664
+2024-03-19,prod3,amazon,"Satisfied, but camera could be better",2,user_665
+2024-01-21,prod1,amazon,Good value for money,2,user_666
+2024-04-26,prod3,amazon,Poor build quality,4,user_667
+2024-07-03,prod1,amazon,Good value for money,4,user_668
+2024-06-13,prod1,amazon,Good value for money,2,user_669
+2024-01-31,prod3,amazon,"Great product, battery lasts long",2,user_670
+2024-02-14,prod2,amazon,Terrible customer service,2,user_671
+2024-02-16,prod3,amazon,Good value for money,5,user_672
+2024-09-10,prod1,amazon,Good value for money,4,user_673
+2024-02-19,prod2,amazon,Good value for money,4,user_674
+2024-08-23,prod1,amazon,Good value for money,3,user_675
+2024-02-22,prod3,amazon,"Satisfied, but camera could be better",2,user_676
+2024-09-15,prod2,amazon,Good value for money,2,user_677
+2024-08-04,prod1,amazon,"Great product, battery lasts long",5,user_678
+2024-07-11,prod1,amazon,Poor build quality,1,user_679
+2024-07-20,prod2,amazon,Good value for money,4,user_680
+2024-02-15,prod1,amazon,"Great product, battery lasts long",5,user_681
+2024-10-23,prod2,amazon,"Satisfied, but camera could be better",1,user_682
+2024-03-23,prod3,amazon,"Great product, battery lasts long",4,user_683
+2024-04-11,prod2,amazon,Terrible customer service,5,user_684
+2024-07-21,prod3,amazon,Terrible customer service,4,user_685
+2024-05-11,prod3,amazon,Poor build quality,4,user_686
+2024-05-31,prod2,amazon,Poor build quality,1,user_687
+2024-04-23,prod3,amazon,Poor build quality,4,user_688
+2024-02-11,prod2,amazon,Poor build quality,1,user_689
+2024-06-22,prod1,amazon,Poor build quality,1,user_690
+2024-03-04,prod3,amazon,Good value for money,2,user_691
+2024-07-13,prod3,amazon,Poor build quality,5,user_692
+2024-03-08,prod3,amazon,"Great product, battery lasts long",2,user_693
+2024-01-18,prod1,amazon,"Great product, battery lasts long",2,user_694
+2024-09-06,prod2,amazon,Poor build quality,3,user_695
+2024-05-07,prod2,amazon,"Great product, battery lasts long",4,user_696
+2024-05-25,prod2,amazon,Poor build quality,1,user_697
+2024-04-11,prod1,amazon,Terrible customer service,5,user_698
+2024-09-11,prod2,amazon,Good value for money,5,user_699
+2024-09-01,prod3,amazon,Poor build quality,1,user_700
+2024-06-09,prod1,amazon,Good value for money,1,user_701
+2024-03-15,prod2,amazon,Good value for money,2,user_702
+2024-03-10,prod1,amazon,Good value for money,4,user_703
+2024-04-12,prod2,amazon,Good value for money,2,user_704
+2024-08-13,prod2,amazon,"Great product, battery lasts long",5,user_705
+2024-03-30,prod2,amazon,"Satisfied, but camera could be better",2,user_706
+2024-04-06,prod2,amazon,Good value for money,4,user_707
+2024-10-25,prod2,amazon,Poor build quality,1,user_708
+2024-07-14,prod3,amazon,"Satisfied, but camera could be better",3,user_709
+2024-09-25,prod3,amazon,Good value for money,4,user_710
+2024-04-25,prod1,amazon,Terrible customer service,2,user_711
+2024-06-04,prod2,amazon,Poor build quality,4,user_712
+2024-01-23,prod1,amazon,"Great product, battery lasts long",1,user_713
+2024-05-16,prod3,amazon,"Great product, battery lasts long",5,user_714
+2024-09-27,prod2,amazon,Poor build quality,2,user_715
+2024-02-12,prod3,amazon,Good value for money,2,user_716
+2024-08-18,prod2,amazon,Terrible customer service,4,user_717
+2024-04-22,prod3,amazon,Good value for money,3,user_718
+2024-04-12,prod1,amazon,"Great product, battery lasts long",5,user_719
+2024-10-24,prod1,amazon,Poor build quality,2,user_720
+2024-03-20,prod1,amazon,Terrible customer service,1,user_721
+2024-06-30,prod3,amazon,Terrible customer service,2,user_722
+2024-01-29,prod3,amazon,"Satisfied, but camera could be better",4,user_723
+2024-09-07,prod2,amazon,Terrible customer service,4,user_724
+2024-05-09,prod3,amazon,"Great product, battery lasts long",5,user_725
+2024-03-30,prod3,amazon,"Satisfied, but camera could be better",1,user_726
+2024-02-05,prod1,amazon,"Satisfied, but camera could be better",4,user_727
+2024-07-30,prod1,amazon,Good value for money,2,user_728
+2024-03-04,prod3,amazon,"Great product, battery lasts long",1,user_729
+2024-05-28,prod2,amazon,"Great product, battery lasts long",2,user_730
+2024-06-07,prod2,amazon,Poor build quality,3,user_731
+2024-08-16,prod2,amazon,Good value for money,4,user_732
+2024-03-09,prod3,amazon,Good value for money,4,user_733
+2024-08-27,prod3,amazon,Poor build quality,3,user_734
+2024-09-26,prod2,amazon,"Great product, battery lasts long",5,user_735
+2024-09-09,prod3,amazon,"Satisfied, but camera could be better",4,user_736
+2024-09-20,prod1,amazon,Terrible customer service,1,user_737
+2024-01-02,prod2,amazon,Poor build quality,3,user_738
+2024-09-25,prod2,amazon,"Great product, battery lasts long",3,user_739
+2024-01-13,prod2,amazon,"Satisfied, but camera could be better",2,user_740
+2024-04-11,prod1,amazon,"Satisfied, but camera could be better",5,user_741
+2024-03-14,prod1,amazon,Poor build quality,4,user_742
+2024-03-30,prod3,amazon,"Satisfied, but camera could be better",5,user_743
+2024-09-23,prod1,amazon,Good value for money,4,user_744
+2024-10-24,prod1,amazon,"Satisfied, but camera could be better",3,user_745
+2024-08-15,prod1,amazon,"Great product, battery lasts long",2,user_746
+2024-04-25,prod3,amazon,"Great product, battery lasts long",5,user_747
+2024-09-19,prod1,amazon,Terrible customer service,3,user_748
+2024-01-06,prod3,amazon,Poor build quality,1,user_749
+2024-03-27,prod3,amazon,"Satisfied, but camera could be better",2,user_750
+2024-08-26,prod1,amazon,Poor build quality,2,user_751
+2024-03-23,prod1,amazon,Poor build quality,4,user_752
+2024-08-26,prod1,amazon,Poor build quality,5,user_753
+2024-10-20,prod2,amazon,Poor build quality,3,user_754
+2024-06-08,prod1,amazon,"Satisfied, but camera could be better",5,user_755
+2024-10-17,prod3,amazon,Good value for money,2,user_756
+2024-01-29,prod3,amazon,"Satisfied, but camera could be better",5,user_757
+2024-05-22,prod3,amazon,Good value for money,2,user_758
+2024-05-28,prod2,amazon,Good value for money,3,user_759
+2024-01-11,prod3,amazon,Good value for money,3,user_760
+2024-09-18,prod1,amazon,Terrible customer service,1,user_761
+2024-07-17,prod3,amazon,"Satisfied, but camera could be better",1,user_762
+2024-01-18,prod1,amazon,Poor build quality,2,user_763
+2024-04-30,prod3,amazon,"Satisfied, but camera could be better",4,user_764
+2024-09-22,prod2,amazon,"Satisfied, but camera could be better",2,user_765
+2024-02-26,prod3,amazon,Poor build quality,4,user_766
+2024-05-23,prod2,amazon,Terrible customer service,1,user_767
+2024-06-09,prod1,amazon,"Great product, battery lasts long",3,user_768
+2024-06-15,prod3,amazon,"Great product, battery lasts long",1,user_769
+2024-07-07,prod2,amazon,Terrible customer service,2,user_770
+2024-06-08,prod3,amazon,Good value for money,5,user_771
+2024-08-29,prod2,amazon,"Great product, battery lasts long",4,user_772
+2024-01-09,prod3,amazon,Poor build quality,5,user_773
+2024-02-18,prod1,amazon,"Satisfied, but camera could be better",3,user_774
+2024-04-04,prod2,amazon,"Satisfied, but camera could be better",2,user_775
+2024-07-20,prod1,amazon,"Satisfied, but camera could be better",4,user_776
+2024-04-07,prod1,amazon,Poor build quality,5,user_777
+2024-08-30,prod1,amazon,Good value for money,5,user_778
+2024-04-02,prod3,amazon,Good value for money,1,user_779
+2024-01-27,prod2,amazon,Terrible customer service,2,user_780
+2024-09-25,prod1,amazon,Good value for money,2,user_781
+2024-08-29,prod2,amazon,"Satisfied, but camera could be better",2,user_782
+2024-03-26,prod2,amazon,Poor build quality,2,user_783
+2024-03-20,prod2,amazon,"Satisfied, but camera could be better",4,user_784
+2024-04-28,prod3,amazon,"Great product, battery lasts long",4,user_785
+2024-04-13,prod1,amazon,"Satisfied, but camera could be better",3,user_786
+2024-06-23,prod1,amazon,Terrible customer service,1,user_787
+2024-07-01,prod1,amazon,"Great product, battery lasts long",2,user_788
+2024-09-18,prod3,amazon,Terrible customer service,1,user_789
+2024-05-26,prod1,amazon,Poor build quality,1,user_790
+2024-05-18,prod1,amazon,"Satisfied, but camera could be better",4,user_791
+2024-02-25,prod1,amazon,"Satisfied, but camera could be better",4,user_792
+2024-04-17,prod3,amazon,Good value for money,4,user_793
+2024-01-26,prod3,amazon,Good value for money,4,user_794
+2024-10-09,prod1,amazon,"Satisfied, but camera could be better",4,user_795
+2024-02-09,prod2,amazon,Good value for money,4,user_796
+2024-07-06,prod3,amazon,Poor build quality,5,user_797
+2024-04-13,prod3,amazon,Good value for money,5,user_798
+2024-05-22,prod3,amazon,"Great product, battery lasts long",4,user_799
+2024-05-06,prod1,amazon,Good value for money,4,user_800
+2024-01-16,prod2,amazon,Poor build quality,5,user_801
+2024-07-14,prod2,amazon,Good value for money,2,user_802
+2024-06-24,prod1,amazon,"Satisfied, but camera could be better",4,user_803
+2024-09-18,prod2,amazon,Poor build quality,3,user_804
+2024-04-13,prod1,amazon,"Satisfied, but camera could be better",5,user_805
+2024-01-29,prod1,amazon,Poor build quality,4,user_806
+2024-09-15,prod1,amazon,Poor build quality,4,user_807
+2024-09-11,prod3,amazon,Good value for money,5,user_808
+2024-06-05,prod2,amazon,"Great product, battery lasts long",5,user_809
+2024-03-28,prod2,amazon,Terrible customer service,4,user_810
+2024-04-07,prod3,amazon,Terrible customer service,1,user_811
+2024-02-18,prod1,amazon,"Great product, battery lasts long",1,user_812
+2024-02-26,prod2,amazon,Poor build quality,5,user_813
+2024-01-10,prod3,amazon,"Satisfied, but camera could be better",3,user_814
+2024-03-08,prod2,amazon,"Satisfied, but camera could be better",2,user_815
+2024-08-07,prod2,amazon,"Great product, battery lasts long",1,user_816
+2024-02-11,prod1,amazon,"Great product, battery lasts long",2,user_817
+2024-02-13,prod2,amazon,"Satisfied, but camera could be better",5,user_818
+2024-04-18,prod2,amazon,"Satisfied, but camera could be better",2,user_819
+2024-04-08,prod2,amazon,"Satisfied, but camera could be better",1,user_820
+2024-04-01,prod2,amazon,Poor build quality,1,user_821
+2024-06-14,prod2,amazon,Good value for money,2,user_822
+2024-10-05,prod2,amazon,"Satisfied, but camera could be better",3,user_823
+2024-07-06,prod1,amazon,Poor build quality,1,user_824
+2024-09-12,prod3,amazon,"Great product, battery lasts long",5,user_825
+2024-09-22,prod2,amazon,Terrible customer service,3,user_826
+2024-05-11,prod1,amazon,Terrible customer service,1,user_827
+2024-04-05,prod1,amazon,Good value for money,4,user_828
+2024-03-29,prod2,amazon,"Satisfied, but camera could be better",3,user_829
+2024-07-29,prod2,amazon,"Satisfied, but camera could be better",1,user_830
+2024-01-24,prod1,amazon,Good value for money,1,user_831
+2024-05-16,prod2,amazon,"Great product, battery lasts long",4,user_832
+2024-08-13,prod2,amazon,Terrible customer service,5,user_833
+2024-02-06,prod2,amazon,"Satisfied, but camera could be better",1,user_834
+2024-05-31,prod2,amazon,Poor build quality,2,user_835
+2024-01-30,prod3,amazon,Terrible customer service,3,user_836
+2024-09-19,prod1,amazon,Good value for money,2,user_837
+2024-08-19,prod3,amazon,Good value for money,1,user_838
+2024-02-01,prod3,amazon,Poor build quality,1,user_839
+2024-07-20,prod2,amazon,Terrible customer service,5,user_840
+2024-05-29,prod2,amazon,Terrible customer service,2,user_841
+2024-08-25,prod2,amazon,"Satisfied, but camera could be better",3,user_842
+2024-02-15,prod3,amazon,"Satisfied, but camera could be better",1,user_843
+2024-01-13,prod2,amazon,Good value for money,1,user_844
+2024-09-29,prod1,amazon,Poor build quality,3,user_845
+2024-10-21,prod1,amazon,"Great product, battery lasts long",3,user_846
+2024-10-10,prod2,amazon,Poor build quality,5,user_847
+2024-03-22,prod3,amazon,"Great product, battery lasts long",4,user_848
+2024-08-27,prod2,amazon,Terrible customer service,3,user_849
+2024-06-18,prod2,amazon,Good value for money,1,user_850
+2024-09-04,prod3,amazon,Poor build quality,3,user_851
+2024-02-02,prod1,amazon,Good value for money,4,user_852
+2024-03-26,prod3,amazon,Terrible customer service,4,user_853
+2024-10-03,prod3,amazon,"Satisfied, but camera could be better",5,user_854
+2024-09-03,prod2,amazon,Terrible customer service,3,user_855
+2024-02-03,prod1,amazon,Terrible customer service,1,user_856
+2024-10-12,prod2,amazon,Poor build quality,3,user_857
+2024-03-13,prod2,amazon,"Satisfied, but camera could be better",4,user_858
+2024-10-09,prod1,amazon,"Satisfied, but camera could be better",2,user_859
+2024-08-08,prod2,amazon,"Great product, battery lasts long",4,user_860
+2024-01-16,prod2,amazon,Poor build quality,2,user_861
+2024-05-10,prod3,amazon,"Satisfied, but camera could be better",3,user_862
+2024-02-29,prod3,amazon,Good value for money,5,user_863
+2024-03-11,prod1,amazon,Poor build quality,5,user_864
+2024-02-05,prod3,amazon,Good value for money,2,user_865
+2024-02-25,prod1,amazon,"Great product, battery lasts long",3,user_866
+2024-02-26,prod3,amazon,Terrible customer service,5,user_867
+2024-05-14,prod2,amazon,"Satisfied, but camera could be better",1,user_868
+2024-04-21,prod1,amazon,Good value for money,5,user_869
+2024-02-20,prod1,amazon,Good value for money,4,user_870
+2024-03-11,prod3,amazon,"Satisfied, but camera could be better",4,user_871
+2024-08-23,prod2,amazon,"Satisfied, but camera could be better",3,user_872
+2024-06-06,prod2,amazon,"Satisfied, but camera could be better",2,user_873
+2024-05-14,prod3,amazon,Good value for money,1,user_874
+2024-06-21,prod1,amazon,Good value for money,1,user_875
+2024-06-25,prod1,amazon,"Satisfied, but camera could be better",1,user_876
+2024-04-11,prod1,amazon,Terrible customer service,4,user_877
+2024-10-10,prod2,amazon,Good value for money,1,user_878
+2024-06-25,prod2,amazon,Good value for money,2,user_879
+2024-09-27,prod3,amazon,Poor build quality,3,user_880
+2024-07-11,prod2,amazon,Good value for money,5,user_881
+2024-10-11,prod2,amazon,"Great product, battery lasts long",4,user_882
+2024-07-20,prod2,amazon,"Great product, battery lasts long",1,user_883
+2024-02-23,prod1,amazon,Poor build quality,4,user_884
+2024-01-28,prod3,amazon,Terrible customer service,2,user_885
+2024-02-12,prod3,amazon,Good value for money,5,user_886
+2024-08-22,prod3,amazon,"Great product, battery lasts long",2,user_887
+2024-07-10,prod2,amazon,"Great product, battery lasts long",4,user_888
+2024-09-15,prod2,amazon,Terrible customer service,5,user_889
+2024-06-05,prod2,amazon,Good value for money,2,user_890
+2024-07-16,prod1,amazon,Good value for money,4,user_891
+2024-10-02,prod2,amazon,Good value for money,2,user_892
+2024-03-13,prod3,amazon,Good value for money,2,user_893
+2024-04-25,prod1,amazon,"Satisfied, but camera could be better",1,user_894
+2024-08-21,prod2,amazon,Terrible customer service,4,user_895
+2024-02-10,prod1,amazon,Poor build quality,5,user_896
+2024-04-02,prod3,amazon,Poor build quality,5,user_897
+2024-03-07,prod1,amazon,"Great product, battery lasts long",3,user_898
+2024-02-13,prod2,amazon,Good value for money,2,user_899
+2024-01-22,prod3,amazon,Terrible customer service,3,user_900
+2024-02-09,prod3,amazon,Poor build quality,2,user_901
+2024-09-16,prod1,amazon,"Great product, battery lasts long",3,user_902
+2024-09-15,prod2,amazon,"Great product, battery lasts long",4,user_903
+2024-08-09,prod1,amazon,Good value for money,5,user_904
+2024-04-13,prod1,amazon,Poor build quality,4,user_905
+2024-02-19,prod2,amazon,"Great product, battery lasts long",5,user_906
+2024-04-14,prod2,amazon,Terrible customer service,4,user_907
+2024-05-18,prod1,amazon,"Satisfied, but camera could be better",3,user_908
+2024-08-12,prod2,amazon,Poor build quality,2,user_909
+2024-05-23,prod2,amazon,Terrible customer service,1,user_910
+2024-03-30,prod3,amazon,Good value for money,5,user_911
+2024-01-17,prod2,amazon,"Satisfied, but camera could be better",4,user_912
+2024-08-21,prod1,amazon,Poor build quality,1,user_913
+2024-08-27,prod3,amazon,"Satisfied, but camera could be better",3,user_914
+2024-07-28,prod1,amazon,Terrible customer service,3,user_915
+2024-04-23,prod2,amazon,Good value for money,1,user_916
+2024-07-14,prod1,amazon,Poor build quality,2,user_917
+2024-05-19,prod2,amazon,Poor build quality,4,user_918
+2024-01-29,prod3,amazon,Poor build quality,3,user_919
+2024-01-17,prod1,amazon,Poor build quality,1,user_920
+2024-08-07,prod1,amazon,"Satisfied, but camera could be better",1,user_921
+2024-02-25,prod2,amazon,Good value for money,2,user_922
+2024-05-30,prod2,amazon,"Great product, battery lasts long",3,user_923
+2024-10-20,prod2,amazon,"Great product, battery lasts long",1,user_924
+2024-10-08,prod3,amazon,"Satisfied, but camera could be better",5,user_925
+2024-05-12,prod1,amazon,Poor build quality,4,user_926
+2024-06-04,prod2,amazon,Poor build quality,4,user_927
+2024-10-02,prod3,amazon,Good value for money,3,user_928
+2024-03-13,prod2,amazon,Good value for money,2,user_929
+2024-06-22,prod3,amazon,Good value for money,3,user_930
+2024-01-07,prod3,amazon,Good value for money,3,user_931
+2024-08-08,prod1,amazon,"Satisfied, but camera could be better",2,user_932
+2024-04-08,prod1,amazon,"Great product, battery lasts long",4,user_933
+2024-03-18,prod3,amazon,"Satisfied, but camera could be better",4,user_934
+2024-03-05,prod1,amazon,"Great product, battery lasts long",5,user_935
+2024-06-15,prod2,amazon,"Satisfied, but camera could be better",3,user_936
+2024-06-22,prod1,amazon,"Great product, battery lasts long",4,user_937
+2024-05-13,prod2,amazon,"Great product, battery lasts long",2,user_938
+2024-06-27,prod2,amazon,"Satisfied, but camera could be better",2,user_939
+2024-06-02,prod3,amazon,Poor build quality,3,user_940
+2024-07-13,prod2,amazon,Poor build quality,3,user_941
+2024-10-05,prod3,amazon,"Great product, battery lasts long",1,user_942
+2024-01-26,prod1,amazon,Good value for money,2,user_943
+2024-04-30,prod2,amazon,Good value for money,3,user_944
+2024-09-26,prod3,amazon,Terrible customer service,5,user_945
+2024-02-14,prod3,amazon,Terrible customer service,4,user_946
+2024-09-07,prod3,amazon,Terrible customer service,4,user_947
+2024-09-22,prod2,amazon,"Satisfied, but camera could be better",1,user_948
+2024-08-03,prod3,amazon,Good value for money,5,user_949
+2024-01-08,prod2,amazon,Terrible customer service,4,user_950
+2024-04-03,prod3,amazon,"Satisfied, but camera could be better",2,user_951
+2024-03-16,prod3,amazon,Terrible customer service,2,user_952
+2024-06-08,prod1,amazon,"Great product, battery lasts long",5,user_953
+2024-08-14,prod2,amazon,Poor build quality,3,user_954
+2024-05-25,prod2,amazon,Terrible customer service,2,user_955
+2024-10-13,prod1,amazon,Poor build quality,3,user_956
+2024-09-24,prod1,amazon,Terrible customer service,5,user_957
+2024-08-27,prod2,amazon,Good value for money,4,user_958
+2024-02-23,prod1,amazon,Terrible customer service,2,user_959
+2024-03-04,prod2,amazon,Terrible customer service,2,user_960
+2024-09-07,prod1,amazon,Terrible customer service,1,user_961
+2024-04-05,prod3,amazon,"Satisfied, but camera could be better",3,user_962
+2024-10-22,prod2,amazon,Good value for money,1,user_963
+2024-07-10,prod2,amazon,Terrible customer service,4,user_964
+2024-05-26,prod3,amazon,Terrible customer service,1,user_965
+2024-01-30,prod1,amazon,Poor build quality,1,user_966
+2024-01-25,prod1,amazon,Terrible customer service,2,user_967
+2024-10-06,prod3,amazon,"Satisfied, but camera could be better",5,user_968
+2024-09-01,prod3,amazon,"Great product, battery lasts long",5,user_969
+2024-08-14,prod2,amazon,"Great product, battery lasts long",2,user_970
+2024-04-02,prod1,amazon,Poor build quality,4,user_971
+2024-05-28,prod2,amazon,Good value for money,3,user_972
+2024-09-22,prod1,amazon,"Satisfied, but camera could be better",1,user_973
+2024-04-01,prod3,amazon,"Satisfied, but camera could be better",2,user_974
+2024-02-17,prod2,amazon,"Great product, battery lasts long",3,user_975
+2024-03-29,prod2,amazon,Terrible customer service,3,user_976
+2024-06-03,prod3,amazon,"Great product, battery lasts long",1,user_977
+2024-01-04,prod3,amazon,Good value for money,5,user_978
+2024-01-12,prod1,amazon,Terrible customer service,5,user_979
+2024-05-22,prod1,amazon,Poor build quality,5,user_980
+2024-01-21,prod1,amazon,Poor build quality,5,user_981
+2024-01-10,prod3,amazon,Poor build quality,2,user_982
+2024-07-14,prod2,amazon,Terrible customer service,1,user_983
+2024-09-26,prod2,amazon,Terrible customer service,2,user_984
+2024-02-29,prod2,amazon,"Satisfied, but camera could be better",3,user_985
+2024-08-14,prod3,amazon,Good value for money,2,user_986
+2024-05-04,prod2,amazon,Good value for money,3,user_987
+2024-08-14,prod1,amazon,Good value for money,5,user_988
+2024-07-03,prod2,amazon,Poor build quality,4,user_989
+2024-09-09,prod2,amazon,Good value for money,5,user_990
+2024-01-27,prod1,amazon,Good value for money,5,user_991
+2024-01-24,prod3,amazon,Poor build quality,5,user_992
+2024-10-19,prod3,amazon,Good value for money,1,user_993
+2024-02-21,prod1,amazon,"Satisfied, but camera could be better",5,user_994
+2024-05-18,prod1,amazon,"Great product, battery lasts long",5,user_995
+2024-06-25,prod2,amazon,Terrible customer service,1,user_996
+2024-05-08,prod1,amazon,"Great product, battery lasts long",3,user_997
+2024-09-10,prod2,amazon,"Satisfied, but camera could be better",4,user_998
+2024-09-15,prod3,amazon,Good value for money,4,user_999
